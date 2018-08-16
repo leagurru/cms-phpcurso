@@ -12,7 +12,11 @@
         $count = mysqli_num_rows($search_query);
         if($count == 0) {
             echo "<h1>Sin resultados</h1>";
-        }}
+        } else {
+            echo "<h1>Hay resultados</h1>";
+        }
+
+        }
 
     ?>
 
