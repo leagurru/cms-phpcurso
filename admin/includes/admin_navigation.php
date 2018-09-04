@@ -43,7 +43,7 @@
                 <a href="javascript:;" data-toggle="collapse" data-target="#posts_dropdown"><i class="fa fa-fw fa-arrows-v"></i> Posteos <i class="fa fa-fw fa-caret-down"></i></a>
                 <ul id="posts_dropdown" class="collapse">
                     <li>
-                        <a href="#">Ver Posteos</a>
+                        <a href="./posts.php">Ver Posteos</a>
                     </li>
                     <li>
                         <a href="#">Agregar Posteo</a>
@@ -52,7 +52,7 @@
             </li>
 
             <li>
-                <a href="bootstrap-grid.html"><i class="fa fa-fw fa-wrench"></i> Categorías</a>
+                <a href="./categories.php"><i class="fa fa-fw fa-wrench"></i> Categorías</a>
             </li>
 
             <li class="active">
